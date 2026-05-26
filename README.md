@@ -1,82 +1,33 @@
-# \# Ejercicios Genéricos en Java
+# Ejercicios Genéricos en Java
 
-# 
+Trabajo práctico realizado en Java para practicar el uso de genéricos, estructuras reutilizables y trabajo colaborativo con GitHub.
 
-# Proyecto realizado para la práctica de genéricos en Java utilizando Git y GitHub para el trabajo colaborativo.
+---
 
-# 
+## Integrantes
 
-# \---
+- Franco Gagliardi → Ejercicio 1
+- Ramiro Quiroga → Ejercicio 2
+- Ciro Cattáneo → Ejercicio 3
 
-# 
+---
 
-# \# Integrantes del grupo
+## Ejercicios
 
-# 
+### Ejercicio 1 — Pila Genérica
+Implementación de una clase `Pila<T>` utilizando `ArrayList<T>` con operaciones básicas como apilar, desapilar y obtener la cima.
 
-# | Integrante | Ejercicio |
+### Ejercicio 2 — Mochila de Mario
+Desarrollo de una clase genérica `Mochila<T>` y comparación con una implementación específica llamada `MochilaDeMonedas`.
 
-# |---|---|
+### Ejercicio 3 — Par<A,B>
+Clase genérica capaz de almacenar dos valores de distintos tipos, incluyendo un método para invertir el par.
 
-# | Franco Gagliardi | Ejercicio 1 |
+---
 
-# | Ramiro Quiroga | Ejercicio 2 |
+## Tecnologías utilizadas
 
-# | Ciro Cattáneo | Ejercicio 3 |
-
-# 
-
-# \---
-
-# 
-
-# \# Objetivo del proyecto
-
-# 
-
-# El objetivo de este trabajo es aplicar el uso de genéricos en Java mediante la resolución de distintos ejercicios prácticos, implementando estructuras reutilizables y tipadas de forma segura.
-
-# 
-
-# Además, se busca practicar:
-
-# \- Trabajo colaborativo
-
-# \- Organización de proyectos Java
-
-# \- Uso de Git y GitHub
-
-# \- Buenas prácticas de programación
-
-# 
-
-# \---
-
-# 
-
-# \# Estructura del proyecto
-
-# 
-
-# ```text
-
-# ejercicios-genericos-java/
-
-# │
-
-# ├── README.md
-
-# ├── src/
-
-# │   ├── Main.java
-
-# │   ├── pila/
-
-# │   ├── mochila/
-
-# │   ├── par/
-
-# │   ├── calculadora/
-
-# │   └── repositorio/
-
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
