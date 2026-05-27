@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practica_Genericos_Java_Grupo11.iml" filepath="$PROJECT_DIR$/.idea/Practica_Genericos_Java_Grupo11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-genericos-java/src/ejercicios-genericos-java.iml" filepath="$PROJECT_DIR$/ejercicios-genericos-java/src/ejercicios-genericos-java.iml" />
+    </modules>
+  </component>
+</project>
